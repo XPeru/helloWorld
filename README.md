@@ -1,5 +1,5 @@
 # Aplicaciones en iOS 8
 
 Referencias:
-* http://openclassrooms.com/courses/creez-des-applications-pour-iphone-ipad-et-ipod-touch
+* http://web.stanford.edu/class/cs193p/cgi-bin/drupal/
 
