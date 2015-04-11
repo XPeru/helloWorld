@@ -1,12 +1,11 @@
 # Aplicaciones en iOS 8
 
 Plataforma de desarrollo
-Applicacion:        Xcode 6 (editor, compiler, debugger, iOS simulator)
-Lenguajes:          Objective C(antiguo), Swift(moderno)
-Frameworks:         Foundation, Core Data, UIKit, Core Motion, Map Kit
-Design strategy:    MVC (model, view, controller)
-                        View (Main.storyboard)
-                        Controller (ViewController.swift)
+- Applicacion:          Xcode 6 (editor, compiler, debugger, iOS simulator)
+- Lenguajes:            Objective C(antiguo), Swift(moderno)
+- Frameworks:           Foundation, Core Data, UIKit, Core Motion, Map Kit
+- Design strategy:      MVC (model, view, controller)
+                        -> View (Main.storyboard), Controller (ViewController.swift)
 
 Referencias
 - Developing iOS 8 Apps with Swiftby Stanford
