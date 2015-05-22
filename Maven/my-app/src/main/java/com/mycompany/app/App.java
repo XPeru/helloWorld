@@ -8,6 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" + " (acabo de modificar)" );
+    	Animal an = new Animal("Oscar");
+        System.out.println( "Hello World!" + " (acabo de modificar)\n" +an.name+" es un animal");
     }
 }
