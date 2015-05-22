@@ -4,7 +4,7 @@ public class Perro extends Animal{
 
 	public Perro(String name) {
 		super(name);
-		System.out.println("TLC");
+		System.out.println("Gordo tragon");
 		// TODO Auto-generated constructor stub
 	}
 	
